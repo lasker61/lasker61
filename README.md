@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...Php/Laravel
+- 🔭 I’m currently working on ...Vue js/Laravel
 - 🌱 I’m currently learning ...vue js,laravel,rest api
 - 👯 I’m looking to collaborate on ...vue js
 - 🤔 I’m looking for help with ...aws
