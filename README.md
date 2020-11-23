@@ -50,7 +50,7 @@
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
-<p align="center">
+<p align="left">
 <a href="https://www.nahidlasker.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.nahidlasker.com-blue?style=flat-square&logo=google-chrome"></a>
 <a href="mailto:nahid.lasker@northsouth.edu"><img alt="Email" src="https://img.shields.io/badge/Email-nahid.lasker@northsouth.edu-blue?style=flat-square&logo=gmail"></a>
 </p>
