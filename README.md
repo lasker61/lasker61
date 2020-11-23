@@ -10,7 +10,7 @@
 - 🌱 &nbsp; Learning more about different web technologies.
 - ✍️ &nbsp; Pursuing Blog Writing as hobbies/side hustles.
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+<h3> 🛠 &nbsp;Skills</h3>
 
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
