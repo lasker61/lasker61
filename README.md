@@ -1,6 +1,6 @@
 
 ### Hi there 👋, my name is Nahid
-#### Design And Development
+
 I'm Nahid from Dhaka Bangladesh, and I am a software engineer and fullstake web developer.
 
 Skills: LARAVEL/VUE JS /REST API/MYSQL/JSON/AJAX/PHP/BOOTSTRAP/JQUERY / JAVASRIPT / HTML5 / CSS3
