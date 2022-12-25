@@ -5,7 +5,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studied Computer Science and Engineering at North South university(Bangladesh),Currently studying MSc Engineering Management &nbsp; &nbsp; &nbsp; &nbsp;   &nbsp; &nbsp; &nbsp; &nbsp;At University of South Wales.
+- 🎓 &nbsp; Studied Computer Science and Engineering at North South university(Bangladesh),Currently studying MSc Engineering Management &nbsp; &nbsp; &nbsp; &nbsp;   &nbsp; &nbsp;At University of South Wales.
 - 💼 &nbsp; Working and learning for projects.
 - 🌱 &nbsp; Learning more about different web technologies.
 - ✍️ &nbsp; Pursuing Blog Writing as hobbies/side hustles.
